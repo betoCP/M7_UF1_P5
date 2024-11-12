@@ -1,0 +1,27 @@
+#menu {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+}
+
+.GRUP {
+    margin-bottom: 20px;
+}
+
+.PLAT {
+    margin-bottom: 10px;
+}
+
+.NOM {
+    font-weight: bold;
+}
+
+.DESCRIPCIO {
+    font-style: italic;
+}
+
+.PREU {
+    color: green;
+}

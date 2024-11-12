@@ -1,0 +1,86 @@
+<CARTA>
+    <GRUP>
+        <NOM>Entrantes</NOM>
+        <PLAT>
+            <NOM>Patatas Bravas</NOM>
+            <DESCRIPCIO>Medias lunas de patata, fritas con salsa brava ligeramente picante.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Aceitunas</NOM>
+            <DESCRIPCIO>Aceitunas verdes y negras.</DESCRIPCIO>
+            <PREU>2.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Gazpacho Andaluz</NOM>
+            <DESCRIPCIO>Sopa fría de tomate y vegetales frescos.</DESCRIPCIO>
+            <PREU>6.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Calamares a la Romana</NOM>
+            <DESCRIPCIO>Calamares empanados y fritos, servidos con limón.</DESCRIPCIO>
+            <PREU>8.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Tabla de Quesos</NOM>
+            <DESCRIPCIO>Selección de quesos nacionales e internacionales.</DESCRIPCIO>
+            <PREU>10.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Principales</NOM>
+        <PLAT>
+            <NOM>Fideuá</NOM>
+            <DESCRIPCIO>Fideos con mariscos.</DESCRIPCIO>
+            <PREU>12.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Paella Valenciana</NOM>
+            <DESCRIPCIO>Arroz con carne, verduras y mariscos.</DESCRIPCIO>
+            <PREU>14.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Entrecot a la Parrilla</NOM>
+            <DESCRIPCIO>Corte de ternera a la parrilla con guarnición de verduras.</DESCRIPCIO>
+            <PREU>18.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Cordero al Horno</NOM>
+            <DESCRIPCIO>Cordero asado con patatas y especias.</DESCRIPCIO>
+            <PREU>16.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Bacalao a la Vizcaína</NOM>
+            <DESCRIPCIO>Bacalao en salsa de pimientos y cebolla.</DESCRIPCIO>
+            <PREU>15.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Postres</NOM>
+        <PLAT>
+            <NOM>Tarta de Queso</NOM>
+            <DESCRIPCIO>Tarta suave de queso con base de galleta y mermelada de frutos rojos.</DESCRIPCIO>
+            <PREU>5.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Flan de Huevo</NOM>
+            <DESCRIPCIO>Flan casero con caramelo líquido.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Helado Artesanal</NOM>
+            <DESCRIPCIO>Helado de distintos sabores elaborado artesanalmente.</DESCRIPCIO>
+            <PREU>4.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Tarta de Chocolate</NOM>
+            <DESCRIPCIO>Bizcocho de chocolate con cobertura de chocolate fundido.</DESCRIPCIO>
+            <PREU>5.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Crema Catalana</NOM>
+            <DESCRIPCIO>Crema de yema de huevo caramelizada al estilo tradicional.</DESCRIPCIO>
+            <PREU>4.50</PREU>
+        </PLAT>
+    </GRUP>
+</CARTA>
